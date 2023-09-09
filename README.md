@@ -12,14 +12,17 @@ I'm  Bharti, a passionate web developer . Welcome to my GitHub profile!
 ## My Tech Stack
 
 - 💼 I have experience working with:
-  - Languages: Java, Javascript
-  - Frameworks: ReactJS
-  - Tools: 
-- 🌐 I've built web applications using tech :.
+  -Languages: Java, JavaScript
+  -Web Developement: HTML, CSS, SASS
+  -Front-End Frameworks/Libraries:: Reactjs, Material-UI
+  -Back-End Frameworks/Libraries:: ExpressJS, Node.js
+  -Database: MongoDB
+  -Developer Tools: Git, Netlify, Vercel, VS Code, IntelliJ, Eclipse
+
 
 ## What I'm Working On
 
-- 🔭 I'm currently working on [Project Name], where I'm [Brief Description of Your Current Project].
+- 🔭 I'm currently working on [Tourify], where I'm [using Reactjs to create a Trip planner].
 - 🌱 I'm learning NextJS.
 
 
@@ -27,7 +30,7 @@ I'm  Bharti, a passionate web developer . Welcome to my GitHub profile!
 
 - 📫 You can reach me via bhartisahani406@gmail.com.
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/bharti-sahani-25a250188/).
-- 🐦 Follow me on [Twitter](https://twitter.com/yourusername).
+- 🐦 Follow me on [Twitter](https://twitter.com/bharti147).
 
 
 
