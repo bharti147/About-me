@@ -12,12 +12,12 @@ I'm  Bharti, a passionate web developer . Welcome to my GitHub profile!
 ## My Tech Stack
 
 - 💼 I have experience working with:
-  -Languages: Java, JavaScript
-  -Web Developement: HTML, CSS, SASS
-  -Front-End Frameworks/Libraries:: Reactjs, Material-UI
-  -Back-End Frameworks/Libraries:: ExpressJS, Node.js
-  -Database: MongoDB
-  -Developer Tools: Git, Netlify, Vercel, VS Code, IntelliJ, Eclipse
+-Languages: Java, JavaScript
+-Web Developement: HTML, CSS, SASS
+-Front-End Frameworks/Libraries:: Reactjs, Material-UI
+-Back-End Frameworks/Libraries:: ExpressJS, Node.js
+-Database: MongoDB
+-Developer Tools: Git, Netlify, Vercel, VS Code, IntelliJ, Eclipse
 
 
 ## What I'm Working On
