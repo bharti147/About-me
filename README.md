@@ -22,7 +22,7 @@ I'm  Bharti, a passionate web developer . Welcome to my GitHub profile!
 
 ## What I'm Working On
 
-- 🔭 I'm currently working on [Tourify], where I'm [using Reactjs to create a Trip planner].
+- 🔭 I'm currently working on Tourify, where I'm using Reactjs to create a Trip planner.
 - 🌱 I'm learning NextJS.
 
 
