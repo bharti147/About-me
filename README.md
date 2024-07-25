@@ -7,7 +7,7 @@ I'm  Bharti, a passionate web developer . Welcome to my GitHub profile!
 - 💻 I'm a Web Developer.
 - 🎓 I recently graduated from Chitkara University with a major in Computer Science Engineering.
 - 🔍 I'm always eager to learn and explore new technologies and methodologies.
-- 📚 In my free time, I enjoy reading tech blogs, contributing to open-source projects, and reading fictional books.
+- 📚 In my free time, I enjoy reading tech blogs and reading fictional books.
 
 ## My Tech Stack
 
@@ -35,7 +35,7 @@ I'm  Bharti, a passionate web developer . Welcome to my GitHub profile!
 ## What I'm Working On
 
 - 🔭 I'm currently working on Tourify, where I'm using Reactjs to create a Trip planner.
-- 🌱 I'm learning NextJS.
+- 🌱 I'm learning MERN.
 
 
 ## Get in Touch
