@@ -16,10 +16,10 @@ I'm  Bharti, a passionate web developer . Welcome to my GitHub profile!
   - Java, JavaScript
 
 - **Web Development:**
-  - HTML, CSS, SASS
+  - HTML, CSS, SASS, Tailwind CSS
 
 - **Front-End Frameworks/Libraries:**
-  - React.js, Material-UI
+  - React.js, Material-UI, Redux
 
 - **Back-End Frameworks/Libraries:**
   - Express.js,  Node.js
